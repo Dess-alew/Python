@@ -24,7 +24,7 @@ class person:
     def update_age(self, new_age):
         self.age=new_age
         print(f"New age is: {self.age}")
-#new method added to trigger the action
+#new
 
 p1=person("Alex", 41, 2025)
 p1.greet()
