@@ -5,7 +5,7 @@ class Person:
         self.name = name
         self.age = age
 
-p = Person("Alex", 41)
+p = Person("Abexu", 41)
 
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
